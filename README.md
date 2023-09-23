@@ -1,6 +1,10 @@
-# Walnut App Template
+# Ray Tracing App
 
-This is a simple app template for [Walnut](https://github.com/TheCherno/Walnut) - unlike the example within the Walnut repository, this keeps Walnut as an external submodule and is much more sensible for actually building applications. See the [Walnut](https://github.com/TheCherno/Walnut) repository for more details.
+## English
+I have decided to create this project to improve my C++ and Computer Graphics skills. In addition, I seek to better understand the operation of the Graphics world in general.
+None of this would be possible without the wonderful tutorials of "The Cherno" and his Game Engine series here: https://www.youtube.com/watch?v=gfW1Fhd9u9Q&list=PLlrATfBNZ98edc5GshdBtREv5asFW3yXl&ab_channel=TheCherno
+You may notice that the code comments are in Spanish, this is intentional, as I would like to contribute to the Game developers Spanish speaking community that doesn't speak English.
 
-## Getting Started
-Once you've cloned, you can customize the `premake5.lua` and `WalnutApp/premake5.lua` files to your liking (eg. change the name from "WalnutApp" to something else).  Once you're happy, run `scripts/Setup.bat` to generate Visual Studio 2022 solution/project files. Your app is located in the `WalnutApp/` directory, which some basic example code to get you going in `WalnutApp/src/WalnutApp.cpp`. I recommend modifying that WalnutApp project to create your own application, as everything should be setup and ready to go.
+## Español
+He decidido crear este proyecto para mejorar mis conocimientos de C++. Además, pretendo entender mejor el funcionamiento de los motores de videojuegos y el desarrollo de videojuegos en general.
+Nada de esto sería posible sin los maravillosos tutoriales de "The Cherno" y su serie de Game Engine aquí: https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT
